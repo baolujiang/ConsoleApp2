@@ -7,6 +7,9 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            //to prevent the console window from auto-closing
+            Console.ReadLine();
         }
     }
 }
