@@ -10,6 +10,11 @@ namespace ConsoleApp2
 
             //to prevent the console window from auto-closing
             Console.ReadLine();
+            //add one line here
+
+            System.Console.WriteLine("something new");
+            
+            System.Console.WriteLine(   "hello");
         }
     }
 }
