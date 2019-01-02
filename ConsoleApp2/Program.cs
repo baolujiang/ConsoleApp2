@@ -12,6 +12,7 @@ namespace ConsoleApp2
             Console.ReadLine();
             //add one line here
             
+            System.Console.WriteLine(   "hello");
         }
     }
 }
